@@ -3,4 +3,6 @@ tiikawa_dekatuyo
 ## new vocabulary 
 "高打点"
 "high mount"
-"mo-ritania_D"
+"mo-ritania・R・D"
+"疲労compiler"
+→　== mo-ritania・R・D
